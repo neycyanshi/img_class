@@ -1,8 +1,8 @@
 .vscode/
-data/
-log/
+data/*
+log/*
 !/data/.gitkeep
-!/data/.gitkeep
+!/log/.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
